@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca8f9acc-38bf-4133-b6bf-1bcee1b109a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/query_university.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query_university.sql" beforeDir="false" afterPath="$PROJECT_DIR$/query_university.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/university_database.db" beforeDir="false" afterPath="$PROJECT_DIR$/university_database.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="33ho9MvafaaW2tpWK9rW32kdZ1E" />
   <component name="ProjectLevelVcsManager">
@@ -35,6 +42,10 @@
   "keyToStringList": {
     "DatabaseDriversLRU": [
       "sqlite"
+    ],
+    "RunConfigurationTargetLRU": [
+      "9dbdb839-ab34-49b0-8782-1c2dad0f216b/schema/\"main\"",
+      "9dbdb839-ab34-49b0-8782-1c2dad0f216b"
     ]
   }
 }]]></component>
@@ -42,6 +53,14 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="query_university.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/query_university.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="9dbdb839-ab34-49b0-8782-1c2dad0f216b" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
