@@ -6,11 +6,9 @@ SELECT year, count(*) AS total_record
 From university_rankings
 GROUP BY year;
 
--- The ranking for 2015, number of university of each country
-SELECT country, count(*) AS "Num of Universities"
-FROM university_rankings
-WHERE year = 2015
-GROUP BY country;
+-- How many countries in the ranking
+SELECT DISTINCT country
+FROM university_rankings;
 
 -- Total rows and columns in the data
 SELECT
