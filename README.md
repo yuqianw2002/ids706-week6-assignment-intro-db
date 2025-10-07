@@ -2,7 +2,13 @@
 
 ## Basic Analysis
 The dataset of 'university_ranking' has 2200 rows and 14 columns. For 2012 and 2013, there were 100 universities on the ranking. For 2014 and 2015, there were 1000 universities on the ranking. There are 59 countries in the ranking.
-Then look into two numeric columns. First alumni_employment col
+Then look into two numeric columns. The first column looks into alumni_employment, get the average, min and max for each country among all four years. 
+![alumni_employment](alumni_employment.png)
+![alumni_employment2](alumni_employment2.png)
+The second numeric column gets the min, max, and average score for each country. 
+![score1](score1.png)
+![score2](score2.png)
+
 
 ## CRUD Operations
 1. The ranking committee has decided to publish new results for a new university in 2014. Insert this university into the database.
