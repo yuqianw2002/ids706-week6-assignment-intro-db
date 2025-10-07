@@ -1,1 +1,0 @@
-Select * FROM university_rankings ur ;

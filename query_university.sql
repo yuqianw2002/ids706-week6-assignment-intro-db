@@ -47,7 +47,7 @@ WHERE institution = 'Duke Tech';
 
 -- 2. A policy consultant has reached out to you with the following question.
 -- How many universities from Japan show up in the global top 200 in 2013?
-SELECT count(institution) AS 'Japan universities in global top 200 in 2013'
+SELECT institution, world_rank
 FROM university_rankings
 WHERE year = 2013 AND world_rank < 200 AND country = 'Japan';
 
